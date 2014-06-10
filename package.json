@@ -1,23 +1,22 @@
 {
   "name": "ama.js",
   "version": "0.0.1",
-  "description": "A Javascript wrapper for the Autoridad Metropolitana de Autobuses' (AMA) API.",
-  "main": "index.js",
+  "description": "A Coffeescript wrapper for the Autoridad Metropolitana de Autobuses' (AMA) API.",
   "dependencies": {
     "hyperquest": "~0.3.0",
     "concat-stream": "~1.4.6"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "grunt test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Sparragus/ama.js.git"
+    "url": "git://github.com/jmejias/ama.js.git"
   },
-  "author": "Richard B. Kaufman-Lopez <richardbkaufman@gmail.com> (http://richardkaufman.org",
+  "author": "Johnny Mejias <jmejias17@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Sparragus/ama.js/issues"
+    "url": "https://github.com/jmejias/ama.js/issues"
   }
 }
